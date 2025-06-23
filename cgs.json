@@ -19,9 +19,10 @@
 			"properties": []
 		}
 	],
+	"cardSetIdentifier": "setCode",
 	"cgsGamesLink": null,
 	"copyright": "ByDaryk_k",
-	"playMatImageUrl": "",
+	"playMatImageUrl": "https://raw.githubusercontent.com/Darykk666/DeakonsTradingCardGame-/master/PlayMat.png",
 	"playMatSize": {
 		"x": 36.0,
 		"y": 36.0
