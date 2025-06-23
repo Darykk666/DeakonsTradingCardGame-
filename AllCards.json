@@ -1,0 +1,209 @@
+[
+	{
+		"id": "A15",
+		"name": "A15-OWNBER ",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 10\n> ATK: 5\n> DEF:\n> SKILL: Ao atacar, vire essa carta para baixo, ela fica inativa durante próximo turno \n> CLASS: ⚔️Atacante\n> TYPE: 🔥 Chama\n> WEAK: +2 💦 Aquático"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A1",
+		"name": "A1-MINKYA ",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 10\n> ATK: 3\n> DEF:\n> SKILL:\n> CLASS: 🔄Versátil\n> TYPE: ⚪ Normal\n> WEAK: +2 🧠 Mental"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A18",
+		"name": "A18-DOLEAF",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 8\n> ATK: 4\n> DEF: \n> SKILL:\n> CLASS: 🔄Versátil\n> TYPE: 🌱 Planta\n> WEAK: +2 🔥 Chama"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A19",
+		"name": "A19-LEAFELIX",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 14\n> EVO: A18-Doleaf\n> ATK: 6\n> DEF:\n> SKILL: Ao atacar, cura 1 de HP desse Deakon \n> CLASS: 🔄Versátil\n> TYPE: 🌱 Planta\n> WEAK: +2 🔥 Chama"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A21",
+		"name": "A21-CUBROP",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 6\n> ATK:\n> DEF:\n> SKILL: +3 de HP máximo para o Deakon aliado que estiver na frente desse\n> CLASS: ➕Apoiador\n> TYPE: 💦 Aquático\n> WEAK: +2 🌱 Planta"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A24",
+		"name": "A24-POTRERRA",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 10\n> ATK:\n> DEF:\n> SKILL: Ao atacar vire o Deakon oponente que sofreu o ataque para baixo, ele fica inativo durante o próximo turno \n> CLASS: 🔄Versátil\n> TYPE: 🟫 Terra \n> WEAK: +2 🌪️ Vento"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A25",
+		"name": "A25-SAPHIRORSE",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 20\n> EVO: A24-Potrerra\n> ATK: 6\n> DEF: 2\n> SKILL: Uma vez por turno, você pode desativar a skill de um Deakon oponente na retaguarda durante o próximo turno\n> CLASS: ⚔️Atacante\n> TYPE: 🟫 Terra \n> WEAK: +2 🌪️ Vento"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A26",
+		"name": "A26-UGLALL",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 10\n> ATK:\n> DEF:\n> SKILL: Uma vez por turno, você pode causar 2 de dano neste deakon\n> CLASS: ⚔️Atacante\n> TYPE: ⚪ Normal \n> WEAK: +2 🧠 Mental"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	},
+	{
+		"id": "A27",
+		"name": "A27-DELINGO",
+		"setCode": "AlphaSet",
+		"properties": {
+			"description": {
+				"def": {
+					"name": "description",
+					"type": "string",
+					"display": "Description",
+					"displayEmpty": "",
+					"displayEmptyFirst": false,
+					"delimiter": "",
+					"backName": "",
+					"frontName": "",
+					"properties": []
+				},
+				"value": "> HP: 15\n> EVO: A26-Uglall\n> ATK: 3\n> DEF:\n> SKILL: Por cada ponto de HP perdido, aumente o ATAQUE desse Deakon em +1\n> CLASS: ⚔️Atacante\n> TYPE: 🌪️ Vento\n> WEAK: +2 🎵 Sonoro"
+			}
+		},
+		"isBackFaceCard": false,
+		"backFaceId": ""
+	}
+]
